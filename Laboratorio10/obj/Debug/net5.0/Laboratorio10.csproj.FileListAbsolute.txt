@@ -1,0 +1,16 @@
+C:\Users\csalinor\OneDrive - NTT DATA EMEAL\Documentos\Estudos\Laboratorio10\Laboratorio10\bin\Debug\net5.0\Laboratorio10.exe
+C:\Users\csalinor\OneDrive - NTT DATA EMEAL\Documentos\Estudos\Laboratorio10\Laboratorio10\bin\Debug\net5.0\Laboratorio10.deps.json
+C:\Users\csalinor\OneDrive - NTT DATA EMEAL\Documentos\Estudos\Laboratorio10\Laboratorio10\bin\Debug\net5.0\Laboratorio10.runtimeconfig.json
+C:\Users\csalinor\OneDrive - NTT DATA EMEAL\Documentos\Estudos\Laboratorio10\Laboratorio10\bin\Debug\net5.0\Laboratorio10.runtimeconfig.dev.json
+C:\Users\csalinor\OneDrive - NTT DATA EMEAL\Documentos\Estudos\Laboratorio10\Laboratorio10\bin\Debug\net5.0\Laboratorio10.dll
+C:\Users\csalinor\OneDrive - NTT DATA EMEAL\Documentos\Estudos\Laboratorio10\Laboratorio10\bin\Debug\net5.0\ref\Laboratorio10.dll
+C:\Users\csalinor\OneDrive - NTT DATA EMEAL\Documentos\Estudos\Laboratorio10\Laboratorio10\bin\Debug\net5.0\Laboratorio10.pdb
+C:\Users\csalinor\OneDrive - NTT DATA EMEAL\Documentos\Estudos\Laboratorio10\Laboratorio10\obj\Debug\net5.0\Laboratorio10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csalinor\OneDrive - NTT DATA EMEAL\Documentos\Estudos\Laboratorio10\Laboratorio10\obj\Debug\net5.0\Laboratorio10.AssemblyInfoInputs.cache
+C:\Users\csalinor\OneDrive - NTT DATA EMEAL\Documentos\Estudos\Laboratorio10\Laboratorio10\obj\Debug\net5.0\Laboratorio10.AssemblyInfo.cs
+C:\Users\csalinor\OneDrive - NTT DATA EMEAL\Documentos\Estudos\Laboratorio10\Laboratorio10\obj\Debug\net5.0\Laboratorio10.csproj.CoreCompileInputs.cache
+C:\Users\csalinor\OneDrive - NTT DATA EMEAL\Documentos\Estudos\Laboratorio10\Laboratorio10\obj\Debug\net5.0\Laboratorio10.dll
+C:\Users\csalinor\OneDrive - NTT DATA EMEAL\Documentos\Estudos\Laboratorio10\Laboratorio10\obj\Debug\net5.0\ref\Laboratorio10.dll
+C:\Users\csalinor\OneDrive - NTT DATA EMEAL\Documentos\Estudos\Laboratorio10\Laboratorio10\obj\Debug\net5.0\Laboratorio10.pdb
+C:\Users\csalinor\OneDrive - NTT DATA EMEAL\Documentos\Estudos\Laboratorio10\Laboratorio10\obj\Debug\net5.0\Laboratorio10.genruntimeconfig.cache
+C:\Users\csalinor\OneDrive - NTT DATA EMEAL\Documentos\Estudos\Laboratorio10\Laboratorio10\obj\Debug\net5.0\Laboratorio10.csproj.AssemblyReference.cache
